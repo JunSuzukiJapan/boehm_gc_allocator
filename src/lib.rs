@@ -1,5 +1,3 @@
-#![feature(allocator, no_std, libc)]
-#![allocator]
 #![crate_type = "rlib"]
 #![no_std]
 
